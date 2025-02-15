@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff6f61;">Ritu Raj Kumar!</span></h1>  
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff6f61;">Ritu Raj Kumar!😎</span></h1>  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/245844609-3c58d7c6-3f4d-4c28-9d62-4b3e5a5f48d7.gif" alt="Header" />
 </p>
