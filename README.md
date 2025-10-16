@@ -42,14 +42,6 @@
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajkumar&layout=compact&theme=radical" /> 
 </div>  
-
----
-
-## 🎨 Featured Projects  
-- 🚀 **[ID Card Generator](https://github.com/riturajkumar/id-card-generator)** - Dynamic ID Card creation for businesses and events  
-- 🌐 **[ERP Employee System](https://github.com/riturajkumar/erp-employee-system)** - Efficient employee management system  
-- 🌱 **[Biodiversity Report](https://github.com/riturajkumar/biodiversity-report)** - In-depth report with case studies and research  
-
 ---
 
 ## 🌐 Connect with Me  
