@@ -9,29 +9,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=🤖+AI+Full+Stack+Developer;🏛️+National+e-Governance+Division;🚀+Building+Intelligent+Systems;💡+LLM+%7C+RAG+%7C+Vector+Databases;✨+Vibe+Coder+%26+Open+Source+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=🤖+AI+Full+Stack+Developer;🏛️+AI+Full+Stack+Developer;🚀+Building+Intelligent+Systems;💡+LLM+%7C+RAG+%7C+Vector+Databases;✨+Vibe+Coder+%26+Open+Source+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Professional Introduction
 
-> **AI Full Stack Developer** passionate about building intelligent, scalable applications that bridge cutting-edge AI with real-world governance and enterprise solutions. Currently driving AI innovation at **National e-Governance Division (NeGD)** , where I architect and deploy AI-powered full-stack systems that impact millions.
+> **AI Full Stack Developer** passionate about building intelligent, scalable applications that bridge cutting-edge AI with real-world enterprise solutions. I architect and deploy AI-powered full-stack systems that drive digital transformation.
 
 🎯 **Mission:** Democratize AI through open source, build production-grade LLM applications, and create seamless human-AI interfaces that solve meaningful problems.
-
----
-
-## 🏢 Current Role
-
-<div align="center">
-  
-| Role | Organization | Focus |
-|------|-------------|-------|
-| 🤖 **AI Full Stack Developer** | 🏛️ **National e-Governance Division (NeGD)** | AI-powered governance solutions, LLM integration, Full-stack development |
-| 🎓 **Full Stack Developer** | 🗡️ **DU ASSASSINS** | Web applications, responsive design, end-to-end development |
-
-</div>
 
 ---
 
@@ -114,64 +101,21 @@
 
 </div>
 
----
-
-## 💼 Professional Experience Breakdown
-
+🤝 Let's Connect
 <div align="center">
-  
-### 🏛️ National e-Governance Division (NeGD)
-*AI Full Stack Developer*
-
-- 🔗 Pinecone.io integration for semantic search
-- 🦜 LangChain orchestration for LLM workflows
-- 🤖 OpenAI API implementation for generative AI
-- 📡 MCP (Model Context Protocol) for context management
-- 💬 NLP pipelines for text understanding
-- 🧠 Large Language Model deployment & fine-tuning
-- 🗄️ Vector database architecture
-- 🎨 Vibe coding for rapid AI prototyping
-- 🅰️ AngularJS frontend development
-- 🧩 AI system integration
-
----
-
-### 🗡️ DU ASSASSINS
-*Full Stack Developer*
-
-- ⚛️ React.js frontend development
-- 🟢 Node.js + Express.js backend
-- 🍃 MongoDB database design
-- 📱 Responsive web design
-- 🎨 JavaScript ES6+ implementation
-- 🔌 REST API development
-
----
-
-### 🏫 Ramanujan College
-*Technical Projects & Learning*
-
-- 🐍 Python programming
-- ☕ Java & Core Java
-- 🐘 PHP development
-- 🐬 MySQL database
-- 📊 Data Analysis with Pandas/NumPy
-- 📈 Matplotlib & Seaborn visualizations
-- 📝 Microsoft Word, Excel, Overleaf, Canva
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 </div>
 
----
+✨ Support My Work
+<div align="center">
+⭐ Star my repositories if you find them helpful!
 
-## 🎯 Current Focus Areas
+https://img.shields.io/github/followers/riturajkumar?style=social
+https://img.shields.io/github/stars/riturajkumar?style=social
 
-```python
-current_projects = {
-    "ai_governance": "Building AI solutions for digital India initiatives",
-    "rag_systems": "Implementing RAG with Pinecone + LangChain",
-    "mcp_integration": "Advanced context protocols for LLMs",
-    "vibe_coding": "Rapid prototyping of AI features",
-    "open_source": "Contributing to LLM tooling ecosystem"
-}
-
-learning_next = ["Vector Databases Advanced", "Fine-tuning LLMs", "AI Agents"]
+</div>
