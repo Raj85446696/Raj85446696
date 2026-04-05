@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=ff6f61&center=true&vCenter=true&width=500&lines=Android+Development;Data+Science+Enthusiast;Web+Development+Explorer;Passionate+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=ff6f61&center=true&vCenter=true&width=500&lines=Android+Development;Data+Science+Enthusiast;Web+Development+Explorer;Open+Source+Contributor;AI+Software+Developer;Passionate+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,6 +14,8 @@
 - 🌱 Learning: **React Native**, **Advanced Web Development**  
 - 💬 Ask me about **Android Development**, **Data Science**, **Web Development**, and **React**  
 - 🎨 Fun Fact: I'm a tech enthusiast and love experimenting with emerging technologies  
+- 🤝 **Open Source Contributor** — Actively contributing to open source projects and giving back to the community  
+- 🤖 **AI Software Developer** — Building intelligent systems and exploring the intersection of AI and modern applications  
 
 ---
 
@@ -29,6 +31,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>  
 
 ---
@@ -42,6 +47,22 @@
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajkumar&layout=compact&theme=radical" /> 
 </div>  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajkumar&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🌟 Open Source & AI Contributions  
+<div align="center">
+  
+  🏆 **Open Source Contributor** — Check out my [GitHub Repositories](https://github.com/riturajkumar) for open source projects  
+  🤖 **AI Software Developer** — Building intelligent solutions with Machine Learning & Deep Learning  
+  📦 **Active Contributor** to Python, JavaScript, and AI/ML open source libraries  
+
+</div>
+
 ---
 
 ## 🌐 Connect with Me  
@@ -58,6 +79,9 @@
   <a href="https://twitter.com/riturajkumar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> 
+  <a href="https://github.com/riturajkumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>  
 
 ---
@@ -66,6 +90,8 @@
 - 🌍 Fascinated by emerging tech like **AI**, **Data Science**, and **Blockchain**  
 - 🎮 Gaming enthusiast and tech explorer  
 - 📚 Passionate about reading tech blogs and staying updated  
+- 🤝 Love contributing to **Open Source** — because collaboration makes better software!  
+- 💡 Building **AI-powered applications** that solve real-world problems  
 
 ---
 
