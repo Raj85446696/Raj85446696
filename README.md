@@ -1,121 +1,164 @@
+# 👨‍💻 Ritu Raj Kumar
+### Full Stack Developer | AI Enthusiast | Open Source Contributor
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b460f5-5f2b-49c9-8b7b-c3d6e7f5b7e6.gif" width="100%" alt="AI Header" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b460f5-5f2b-49c9-8b7b-c3d6e7f5b7e6.gif" width="100%" />
+
+<br/>
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Real+Products;Code.+Create.+Innovate.+Repeat." alt="Typing SVG" />
+</a>
+
+<br/>
+
+**Engineering ideas into meaningful digital experiences.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riturajkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  Ritu Raj Kumar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-</h1>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=🤖+AI+Full+Stack+Developer;🏛️+AI+Full+Stack+Developer;🚀+Building+Intelligent+Systems;💡+LLM+%7C+RAG+%7C+Vector+Databases;✨+Vibe+Coder+%26+Open+Source+Advocate" alt="Typing SVG" />
+## `$ whoami`
+
+I'm a **Full Stack Developer** passionate about building scalable applications, modern web experiences, and intelligent software solutions.
+
+I enjoy working across the entire development lifecycle — from designing intuitive interfaces to developing robust backend systems and deploying production-ready applications.
+
+- 🚀 Building real-world full-stack applications.
+- 🧠 Exploring AI, LLMs, RAG, and intelligent automation.
+- ⚙️ Interested in system design and scalable architectures.
+- 🌱 Continuously learning and contributing to open source.
+- 💡 Believe in clean code, continuous improvement, and solving real problems.
+
+---
+
+## ⚡ Technology Arsenal
+
+### Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,redux" />
+</p>
+
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cs,dotnet" />
+</p>
+
+### Databases & Storage
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+### AI & Intelligent Systems
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-312E81?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20Databases-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge&logoColor=white" />
+</p>
+
+### Tools, Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode,vercel" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Introduction
+## 🧩 What I'm Currently Exploring
 
-> **AI Full Stack Developer** passionate about building intelligent, scalable applications that bridge cutting-edge AI with real-world enterprise solutions. I architect and deploy AI-powered full-stack systems that drive digital transformation.
-
-🎯 **Mission:** Democratize AI through open source, build production-grade LLM applications, and create seamless human-AI interfaces that solve meaningful problems.
+| Area | Focus |
+|:---|:---|
+| AI Engineering | LLM applications, RAG, AI agents |
+| Backend | API architecture, authentication, scalability |
+| Frontend | Next.js, React architecture, state management |
+| Database | PostgreSQL, MongoDB, query optimization |
+| DevOps | AWS, Docker, CI/CD, deployment |
+| Engineering | System design, clean architecture, DSA |
 
 ---
 
-## 🧠 Core AI & LLM Expertise
+## 🏗️ Featured Engineering Projects
 
 <div align="center">
-  
-| Technology | Proficiency | Use Case |
-|------------|-------------|----------|
-| 🦜 **LangChain** | ⭐⭐⭐⭐⭐ | LLM orchestration, chain building, agent development |
-| 🔗 **Pinecone.io** | ⭐⭐⭐⭐⭐ | Vector database, semantic search, RAG pipelines |
-| 🤖 **OpenAI API** | ⭐⭐⭐⭐⭐ | GPT-4 integration, embeddings, fine-tuning |
-| 📡 **Model Context Protocol (MCP)** | ⭐⭐⭐⭐ | AI context management, stateful conversations |
-| 💬 **Natural Language Processing (NLP)** | ⭐⭐⭐⭐ | Text processing, sentiment analysis, NER |
-| 🧩 **Large Language Models (LLM)** | ⭐⭐⭐⭐⭐ | Prompt engineering, RAG, fine-tuning |
-| 🗄️ **Vector DB** | ⭐⭐⭐⭐ | Similarity search, embedding storage |
-| 🎨 **Vibe Coding** | ⭐⭐⭐⭐⭐ | Creative problem solving, rapid prototyping |
-| 🧠 **Artificial Intelligence (AI)** | ⭐⭐⭐⭐⭐ | ML models, predictive analytics |
+
+<a href="https://github.com/riturajkumar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=riturajkumar&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
+> Replace `YOUR_REPO_NAME` with the repository you want to showcase. You can add more project cards using the same format.
+
 ---
 
-## 🛠️ Full Stack Development
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-### Backend
-| Technology | Experience |
-|------------|------------|
-| 🟢 **Node.js** | ⭐⭐⭐⭐⭐ |
-| 🚂 **Express.js** | ⭐⭐⭐⭐⭐ |
-| 🐍 **Python** | ⭐⭐⭐⭐⭐ |
-| 🐘 **PHP** | ⭐⭐⭐⭐ |
-| 🔌 **REST APIs** | ⭐⭐⭐⭐⭐ |
 
-### Frontend
-| Technology | Experience |
-|------------|------------|
-| ⚛️ **React.js** | ⭐⭐⭐⭐⭐ |
-| 🅰️ **AngularJS** | ⭐⭐⭐⭐ |
-| 📱 **Responsive Web Design** | ⭐⭐⭐⭐⭐ |
-| 🎨 **JavaScript** | ⭐⭐⭐⭐⭐ |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riturajkumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-### Databases
-| Technology | Experience |
-|------------|------------|
-| 🍃 **MongoDB** | ⭐⭐⭐⭐⭐ |
-| 🐬 **MySQL** | ⭐⭐⭐⭐⭐ |
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajkumar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajkumar&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajkumar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-## 📊 Data Science & Analysis
+## 🧠 Developer Philosophy
 
 <div align="center">
-  
-| Tool/Library | Purpose |
-|--------------|---------|
-| 🐼 **Pandas** | Data manipulation & analysis |
-| 🔢 **NumPy** | Numerical computing |
-| 📈 **Matplotlib** | Data visualization |
-| 🎨 **Seaborn** | Statistical visualization |
-| 📉 **Data Analysis** | Exploratory analysis & insights |
+
+### "First, solve the problem. Then, write the code."
+
+<br/>
+
+**Think deeply. Build intelligently. Ship confidently.**
 
 </div>
+
+I believe great software is not just about writing code. It's about understanding problems, making thoughtful engineering decisions, and building solutions that create real value.
 
 ---
 
-## 🧪 Testing & DevOps
+## 🤝 Let's Connect
 
 <div align="center">
-  
-| Tool | Purpose |
-|------|---------|
-| ✅ **Jest** | JavaScript testing framework |
-| 🤖 **GitHub Copilot** | AI-powered code completion |
-| 🐙 **Git** | Version control |
 
-</div>
+I'm always interested in discussing technology, collaborating on interesting projects, and exploring new opportunities.
 
-🤝 Let's Connect
-<div align="center">
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<a href="https://github.com/riturajkumar">
+<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</div>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-✨ Support My Work
-<div align="center">
-⭐ Star my repositories if you find them helpful!
+<br/><br/>
 
-https://img.shields.io/github/followers/riturajkumar?style=social
-https://img.shields.io/github/stars/riturajkumar?style=social
+<img src="https://komarev.com/ghpvc/?username=riturajkumar&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**© Ritu Raj Kumar | Crafted with curiosity and code.**
 
 </div>
